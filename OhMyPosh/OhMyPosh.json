@@ -35,7 +35,9 @@
             "home_icon": "\ueb06",
             "style": "agnoster",
             "mapped_locations": {
-              "C:\\Users\\Jon\\source\\repos": " \udb80\udea2"
+              "c:\\users\\jon\\source\\repos": " \udb80\udea2",
+              "c:\\users\\jsayce\\source\\repos": " \udb80\udea2",
+              "d:\\source\\repos": " \udb80\udea2"
             }
           }
         },
@@ -104,10 +106,5 @@
         }
       ]
     }
-  ],
-  "transient_prompt": {
-    "background": "transparent",
-    "foreground": "#007ACC",
-    "template": "❯ "
-  }
+  ]
 }
